@@ -78,8 +78,8 @@ Passionate about building practical solutions, learning new technologies, and co
 
 **Bachelor of Science in Computer Science**  
 Balqa Applied University, Jordan  
-Graduation: January 2026 (Expected)  
-CGPA: 3.04 / 4.00  
+Graduation: January 2026  
+CGPA: 3.06 / 4.00  
 
 ---
 
