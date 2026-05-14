@@ -201,7 +201,7 @@ API integration project developed during internship work.
 
 ASP.NET Core, REST APIs, HttpClient
 
-🔗 Repository: [Add Repository Link]
+🔗 [Repository](https://github.com/mariamtobasy/Sprinkle-Collection-API)
 
 ---
 
@@ -222,7 +222,7 @@ A forwarding API that communicates with external geocoding services.
 
 ASP.NET Core, HttpClient, REST APIs
 
-🔗 Repository: [Add Repository Link]
+🔗 [Repository](https://github.com/mariamtobasy/GeocoderProxy-API)
 
 ---
 
@@ -244,7 +244,7 @@ Frontend internship project focused on reusable UI components and API communicat
 
 Angular, TypeScript, HTML, CSS
 
-🔗 Repository: [Add Repository Link]
+🔗 [Repository](https://github.com/mariamtobasy/Angular-Frontend-Project)
 
 ---
 
@@ -265,7 +265,7 @@ Cross-platform notes application for Android and Web.
 
 Flutter, Dart, Firebase Auth, Firestore
 
-🔗 Repository: [Add Repository Link]
+🔗 [Repository](https://github.com/mariamtobasy/mynotes)
 
 ---
 
@@ -285,7 +285,7 @@ Collaborative academic project focused on lexical analysis and IP validation.
 
 Java, PHP, Regex
 
-🔗 Repository: [Add Repository Link]
+🔗 [Repository](https://github.com/mariamtobasy/Automata-regex)
 
 ---
 
