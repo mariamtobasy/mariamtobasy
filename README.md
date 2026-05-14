@@ -1,4 +1,4 @@
-# Hi, I'm Mariam Tobasy 👋
+# Hi, I'm Mar Tobasy 👋
 
 I'm a **Software Developer** , passionate about **full-stack and mobile development**.  
 I enjoy building practical solutions, learning new technologies, and contributing to projects in **backend, frontend, or mobile development**.
